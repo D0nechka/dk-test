@@ -1,0 +1,1 @@
+export { PostsStore } from './PostsStore';

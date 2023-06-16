@@ -1,0 +1,20 @@
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    &-loading {
+        margin-top: 250px;
+    }
+}
+
+.empty {
+    margin: 300px 0;
+}
+
+.post-list-loading {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
